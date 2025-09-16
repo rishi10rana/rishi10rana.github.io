@@ -1,3 +1,7 @@
+html{
+  border: 2px solid grey;
+}
+
 body {
   background: #1b1a1a;
   color: #eee;
